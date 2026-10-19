@@ -1,6 +1,6 @@
-# 451-autoclicker-v1 - Description rapide du programme.
+# webhook-spammer - Description rapide du programme.
 # Copyright (C) 2026 uhqtools-on
-# This file is part of 451-autoclicker-v1.
+# This file is part of webhook-spammer.
 # This program is free software: you can redistribute it and/or modify
 # it under the terms of the GNU General Public License as published by
 # the Free Software Foundation, either version 3 of the License, or
